@@ -1,4 +1,4 @@
-##  About This Project
+##  Akademi – Smart Campus Operations Hub
 
 **Akademi – Smart Campus Operations Hub** is a full-stack web application built to streamline university resource and facility management. It replaces manual, error-prone campus operations with a centralized digital platform.
 
